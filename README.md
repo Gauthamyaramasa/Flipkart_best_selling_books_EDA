@@ -1,2 +1,3 @@
 # Flipkart_best_selling_books_EDA
 Created a project today on Flipkart, a leading Indian online bookstore. Analyzed 2023 book sales data, including novels, education, business, school, and vernacular books, through EDA.
+I created a project focusing on Flipkart.com, one of India's top online bookstores, known for selling a vast number of books annually. The project involves analyzing data related to various types of books sold on Flipkart in 2023, including novels, education, business, school, and vernacular language books. The analysis includes exploratory data analysis (EDA) to gain insights into the best-selling books.
